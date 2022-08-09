@@ -1,0 +1,1 @@
+move sharedinventory.jar C:\Users\ironb\Desktop\testserver\Server1.19\plugins\

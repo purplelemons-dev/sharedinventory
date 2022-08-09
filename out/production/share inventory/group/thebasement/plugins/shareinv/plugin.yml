@@ -1,0 +1,8 @@
+name: SharedInventory
+version: 0.1.0
+description: All players on this server will share 1 inventory.
+main: group.thebasement.plugins.shareinv.Main
+commands:
+  disableshareinv:
+    description: turns off plugin
+    usage: /disableshareinv
